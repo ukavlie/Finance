@@ -29,7 +29,7 @@ from tqdm import tqdm, trange
 
 db = mysql.connector.connect(host        = "localhost",
                              user        = "root",
-                             passwd      = "Aker2408",
+                             passwd      = "xxxxxxxx",
                              auth_plugin = "mysql_native_password",
                              database    = "investing"
                             )
